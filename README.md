@@ -1,6 +1,8 @@
 # SanctuaryMystery
 A Mario Maker puzzle hintsheet
 
+https://supermariomakerbookmark.nintendo.net/courses/B4F7-0000-039D-E804
+
 # Locating the first red coin
 <details><summary>1</summary>You need to be small to go through a pipe with a conveyor in the top half of it.</details>
 
